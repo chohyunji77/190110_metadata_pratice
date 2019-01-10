@@ -1,8 +1,5 @@
 import requests
 import json
-
-import sys
-sys.path.append('../../METADATA')
 import METADATA
 
 params = {
